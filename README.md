@@ -105,7 +105,8 @@ Suggested case study: **Battery Enclosure**, comparing aluminium 6061-T6, AHSS D
 
 ## GUI
 
-_Add a screenshot of `phase7_dashboard` here after running it._
+![Uploading Screenshot 2026-10-05 at 14.55.58.png…]()
+
 
 ## Limitations
 
